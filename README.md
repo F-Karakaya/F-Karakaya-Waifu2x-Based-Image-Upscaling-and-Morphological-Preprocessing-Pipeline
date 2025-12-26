@@ -249,7 +249,9 @@ before commercial usage.
 
 ## 👤 Author
 
-**Furkan Karakaya** GitHub: [F-Karakaya](https://github.com/F-Karakaya)
+**Furkan Karakaya**  
+AI & Computer Vision Engineer  
+📧 se.furkankarakaya@gmail.com   
 
 ---
 
