@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 waifu2x_ncnn/MachineIndependent.lib filter=lfs diff=lfs merge=lfs -text
+waifu2x_ncnn/lib/MachineIndependent.lib filter=lfs diff=lfs merge=lfs -text
