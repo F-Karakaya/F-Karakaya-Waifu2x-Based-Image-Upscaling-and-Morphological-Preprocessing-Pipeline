@@ -15,8 +15,11 @@ Both pipelines are designed to be:
 
 ---
 
+---
+
 ## 📁 Repository Structure
 
+```text
 .
 ├── image_preprocessing.py
 ├── only_upscaling_with_waifu2x.py
@@ -29,6 +32,7 @@ Both pipelines are designed to be:
 │   ├── input-image-dilate1-waifu2x.png
 │   └── input-image-dilate1-waifu2x-erode2.png
 └── README.md
+```
 
 ---
 
